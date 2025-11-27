@@ -44,3 +44,21 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
  - EV Type (BEV / PHEV)
 
  - Model
+
+##Project Insight
+
+- BEVs constitute a larger share of EVs compared to PHEVs, indicating strong consumer preference for fully electric vehicles.
+
+- EV adoption has increased exponentially since 2018, showing accelerated market growth.
+
+- California leads in EV numbers among all states due to policy support, infrastructure, and consumer demand.
+
+- Tesla dominates the EV market, followed by Nissan, Chevrolet, Ford, BMW and Kia.
+
+- Model Y and Model 3 are the most popular EV models, reflecting strong brand trust and performance.
+
+- More than 40% of vehicles are CAFV eligible, showing the positive influence of government incentives.
+
+##Final Conclusion
+
+The U.S. electric vehicle market has shown exceptional growth over the last decade, driven by technological advancements, competitive manufacturers, and favorable state policies. To continue accelerating EV adoption, expanding charging infrastructure and increasing CAFV eligibility incentives will play a crucial role. Manufacturers should focus on improving range efficiency and affordability, while policymakers can target high-potential regions to boost sustainable transportation.
