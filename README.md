@@ -25,7 +25,7 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
 
 - What percentage of EVs are CAFV eligible?
 
-- Dashboard Interaction <a href="https://github.com/lakshmi712m-design/Data-Analysis-Dashboard/blob/main/evanalysis.twbx> View dashboard </a>
+- Dashboard Interaction <a href="https://github.com/lakshmi712m-design/Data-Analysis-Dashboard/blob/main/evanalysis.twbx"> View dashboard </a>
 
 ##Process
 
@@ -44,6 +44,9 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
  - EV Type (BEV / PHEV)
 
  - Model
+##Dashboard
+
+<a href="https://github.com/lakshmi712m-design/Data-Analysis-Dashboard/blob/main/ev_dashboard.png"></a>
 
 ##Project Insight
 
