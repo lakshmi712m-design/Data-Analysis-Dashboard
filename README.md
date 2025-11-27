@@ -25,4 +25,4 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
 
 - What percentage of EVs are CAFV eligible?
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/lakshmi712m-design/Data-Analysis-Dashboard/blob/main/ev_dashboard.png>View dashboard</a>
