@@ -44,9 +44,10 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
  - EV Type (BEV / PHEV)
 
  - Model
+
 ##Dashboard
 
-<a href="https://github.com/lakshmi712m-design/Data-Analysis-Dashboard/blob/main/ev_dashboard.png"></a>
+<img width="1662" height="737" alt="ev_dashboard" src="https://github.com/user-attachments/assets/6b4c0589-342a-41b3-ad47-fcb6763a4426" />
 
 ##Project Insight
 
