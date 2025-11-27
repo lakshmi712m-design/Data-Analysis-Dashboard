@@ -26,3 +26,21 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
 - What percentage of EVs are CAFV eligible?
 
 - Dashboard Interaction <a href="https://github.com/lakshmi712m-design/Data-Analysis-Dashboard/blob/main/ev_dashboard.png>View dashboard</a>
+
+##Process
+
+- Cleaned and validated the dataset to ensure accuracy by resolving missing and inconsistent values.
+
+- Performed data processing to derive metrics related to EV type, range, model, CAFV eligibility, and geographical distribution.
+
+- Built visualizations using Tableau including line chart, bar chart, map chart, donut chart, and tables.
+
+- Integrated all visuals into a single interactive dashboard with slicers for:
+
+ - State
+
+ - CAFV Eligibility
+
+ - EV Type (BEV / PHEV)
+
+ - Model
