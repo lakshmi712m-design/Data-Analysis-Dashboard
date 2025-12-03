@@ -37,7 +37,7 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
 
 - Integrated all visuals into a single interactive dashboard with slicers for:
 
-  -State
+ - State
 
  - CAFV Eligibility
 
