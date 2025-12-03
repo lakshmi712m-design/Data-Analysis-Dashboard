@@ -1,13 +1,13 @@
-#Electrical-Vehicle-Analysis (Interactive Dashboard using Tableau)
+# Electrical-Vehicle-Analysis (Interactive Dashboard using Tableau)
 
-##Project Objective
+## Project Objective
 
 The goal of this project is to analyze the adoption and growth of Electric Vehicles (EVs) across the United States. The dashboard provides valuable insights such as EV distribution by state, growth trend by model year, top manufacturers and models, and the impact of CAFV (Clean Alternative Fuel Vehicle) eligibility. This analysis helps identify market trends and supports decision-making for EV stakeholders, policymakers, and manufacturers.
 
-##Dataset used
+## Dataset used
 - <a href="https://github.com/lakshmi712m-design/Data-Analysis-Dashboard/blob/main/electricvehicledata.xlsx">Electric Vehicle Data</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 
 - Total number of electric vehicles in the U.S.
 
@@ -27,7 +27,7 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
 
 - Dashboard Interaction <a href="https://github.com/lakshmi712m-design/Data-Analysis-Dashboard/blob/main/evanalysis.twbx"> View dashboard </a>
 
-##Process
+## Process
 
 - Cleaned and validated the dataset to ensure accuracy by resolving missing and inconsistent values.
 
@@ -45,11 +45,11 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
 
  - Model
 
-##Dashboard
+## Dashboard
 
 <img width="1662" height="737" alt="ev_dashboard" src="https://github.com/user-attachments/assets/6b4c0589-342a-41b3-ad47-fcb6763a4426" />
 
-##Project Insight
+## Project Insight
 
 - BEVs constitute a larger share of EVs compared to PHEVs, indicating strong consumer preference for fully electric vehicles.
 
@@ -63,6 +63,6 @@ The goal of this project is to analyze the adoption and growth of Electric Vehic
 
 - More than 40% of vehicles are CAFV eligible, showing the positive influence of government incentives.
 
-##Final Conclusion
+## Final Conclusion
 
 The U.S. electric vehicle market has shown exceptional growth over the last decade, driven by technological advancements, competitive manufacturers, and favorable state policies. To continue accelerating EV adoption, expanding charging infrastructure and increasing CAFV eligibility incentives will play a crucial role. Manufacturers should focus on improving range efficiency and affordability, while policymakers can target high-potential regions to boost sustainable transportation.
